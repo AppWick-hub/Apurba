@@ -11,7 +11,7 @@ navbar:
 
 output:
  html_document:
-    theme: yeti
-    highlight: textmate
+    theme: united
+    highlight: espresso
     include:
       css: styles.css
