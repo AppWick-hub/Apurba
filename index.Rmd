@@ -2,7 +2,7 @@
 title: "About Me"
 ---
 
-I am an **Indian Citizen from Balurghat, West Bengal**, currently pursuing my Doctoal Studies in Statistics and Epidemiology from the Ben Gurion University of the Negev, Israel. Currently, I am working on Autism by developing some statistical models and machine learning algorithms using R and Python programming language.
+I, Apurba Shil, an **Indian Citizen from Balurghat, West Bengal**, currently pursuing my Doctoal Studies in Statistics and Epidemiology from the Ben Gurion University of the Negev, Israel. Currently, I am working on Autism by developing some statistical models and machine learning algorithms using R and Python programming language.
 
 # This is me:
 

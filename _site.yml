@@ -1,6 +1,7 @@
-name: "Website"
+name: "My-Website"
+output_dir: "."
 navbar:
-  title: "Apurba Shil"
+  title: "Apanalytics"
   left:
     - text: "Home"
       href: index.html
@@ -10,7 +11,7 @@ navbar:
 
 output:
  html_document:
-    theme: cosmo
+    theme: united
     highlight: textmate
     include:
       css: styles.css
