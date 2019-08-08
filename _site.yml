@@ -1,7 +1,7 @@
 name: "My-Website"
 output_dir: "."
 navbar:
-  title: "Apanalytics"
+  title: "Appuanalytics"
   left:
     - text: "Home"
       href: index.html
