@@ -11,9 +11,17 @@ knitr::include_graphics("IMG_20180727_125347.jpg")
 
 ---
 
-# My research interests are as follows:
+# Research Interests
 
-Predictve Modelling, Spatial Analysis, Machine Learning, Genetics of Autism, Non Communicable Diseases.
+Predictve Modelling
+
+Spatial Analysis
+
+Machine Learning
+
+Genetics of Autism
+
+Non Communicable Diseases.
 
 ---
 
