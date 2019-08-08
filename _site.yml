@@ -1,17 +1,17 @@
 name: "My-Website"
 output_dir: "."
 navbar:
-  title: "Appuanalytics"
+  title: "My Website"
   left:
-    - text: "Home"
+    - text: "Homepage"
       href: index.html
-    - text: "R Courses"
+    - text: "Data Science"
       href: about.html
       
 
 output:
  html_document:
-    theme: united
+    theme: flatly
     highlight: textmate
     include:
       css: styles.css

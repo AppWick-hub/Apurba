@@ -1,12 +1,12 @@
 ---
-title: "R Courses"
+title: "Data Science"
 ---
 
 I am planning to cover different aspects of Data science which includes Data management, Data visualization and Statistical analysis using R in subsequent courses. My primary motivation is to share maximum knowledge to whoever in need. I believe the courses will be good enough to shape early career researchers and job seekers in the field of Data Science and health care analytics. Happy Learning.
 
 ---
 
-## Offspring 2019 R Course
+## Offspring 2019-R Course
 
 I am very pleased to inform that the course become quite popular in its first stage. Nearabout 270 participants register for the course mostly from Biostatistics/ Statistics/Demography/Social Science background from International Institute for Population Sciences (IIPS) and Banaras Hindu University (BHU). 
 
