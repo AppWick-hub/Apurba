@@ -1,8 +1,8 @@
 name: "Website"
 navbar:
-  title: "AppWick's Analytics World"
+  title: "Apurba Shil"
   left:
-    - text: "About Me"
+    - text: "Home"
       href: index.html
     - text: "R Courses"
       href: about.html
