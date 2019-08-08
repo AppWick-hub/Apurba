@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Offspring 2019 R Course"
 ---
 
 # About My Website
