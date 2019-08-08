@@ -29,6 +29,6 @@ I am very positive to organize such courses freely in future through which inter
 
 ---
 
-```{r pressure, echo=FALSE, fig.cap="An interactive visualization using R", out.width = '60%', fig.align="center"}
-knitr::include_graphics("Capture.PNG")
+```{r, echo=FALSE, fig.cap="Interactive visualizations using R", out.height='50%', out.width = '50%', fig.align="center", fig.show='hold'}
+knitr::include_graphics(c("Capture.PNG", "Capture 2.PNG"))
 ```
