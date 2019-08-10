@@ -14,12 +14,12 @@ The important part of the course that it's completely free of cost and the vast 
 
 So, first thing first, the syllabus and instructions of the course is available in https://appwick-hub.github.io/Offspring-2019/Course_Instruction_Syllabus.nb.html \ref [https://appwick-hub.github.io/Offspring-2019/Course_Instruction_Syllabus.nb.html]
 
-**1st Week: ** In the 1st week of the course we learnt basically to install R and R studio and performed some basic operations in R. The reference web page you can find at https://appwick-hub.github.io/Offspring-2019/Offspring-2019-0.nb.html \ref [https://appwick-hub.github.io/Offspring-2019/Offspring-2019-0.nb.html]
+- **1st Week: ** In the 1st week of the course we learnt basically to install R and R studio and performed some basic operations in R. The reference web page you can find at https://appwick-hub.github.io/Offspring-2019/Offspring-2019-0.nb.html \ref [https://appwick-hub.github.io/Offspring-2019/Offspring-2019-0.nb.html]
 
-**2nd Week: ** In the 2nd week, we discussed mainly about sampling and random number generation. The reference web page you can find at https://appwick-hub.github.io/Offspring-2019/Offspring-2019-1.nb.html \ref [https://appwick-hub.github.io/Offspring-2019/Offspring-2019-1.nb.html]
+- **2nd Week: ** In the 2nd week, we discussed mainly about sampling and random number generation. The reference web page you can find at https://appwick-hub.github.io/Offspring-2019/Offspring-2019-1.nb.html \ref [https://appwick-hub.github.io/Offspring-2019/Offspring-2019-1.nb.html]
 
 
-**3rd Week: ** In the 3rd week we discussed on writing conditions, loops and functions. The reference web page you can find at https://appwick-hub.github.io/Offspring-2019/Offspring-2019-2.nb.html \ref [https://appwick-hub.github.io/Offspring-2019/Offspring-2019-2.nb.html]
+- **3rd Week: ** In the 3rd week we discussed on writing conditions, loops and functions. The reference web page you can find at https://appwick-hub.github.io/Offspring-2019/Offspring-2019-2.nb.html \ref [https://appwick-hub.github.io/Offspring-2019/Offspring-2019-2.nb.html]
 
 ---
 
