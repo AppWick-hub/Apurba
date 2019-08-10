@@ -33,9 +33,9 @@ knitr::include_graphics("IMG_20180727_125347.jpg")
 
 - Machine Learning
 
-- Genetics of Autism
+- Genetics of Autism Spectrum Disorders (ASDs)
 
-- Non Communicable Diseases.
+- Non Communicable Diseases (NCDs).
 
 ---
 
