@@ -33,13 +33,9 @@ knitr::include_graphics("IMG_20180727_125347.jpg")
 
 - Machine Learning
 
-- Genetics of Autism Spectrum Disorders (ASDs)
+- Genetics of Autism Spectrum Disorders
 
-- Non Communicable Diseases (NCDs).
-
----
-
-#### For more details I am attaching here my [detailed CV](https://github.com/AppWick-hub/Apurba/tree/master/Apurba Shil-CV.pdf).
+- Non Communicable Diseases
 
 ---
 

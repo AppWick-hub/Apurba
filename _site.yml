@@ -14,7 +14,7 @@ navbar:
     - text: "News & Blogs"
       href: news.html
     - text: "My CV"
-      href: Apurba Shil-CV.html
+      href: Apurba Shil-CV.pdf
       
   right:
     - icon: fa-github fa-lg
