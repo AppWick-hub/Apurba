@@ -1,1 +1,20 @@
-## This page is under construction... 
+
+---
+title: "Data and Software"
+---
+
+I will upload here some data to do some analytical work using R and Python. You can easily download and access those data soon.
+
+### A little background about ![](R.png){width=2%}
+
+R is a friendly and freely available programming software, that means you or your funders don’t need to pay any money to use this. R can handle almost all kind of data with great visualizations. The built in programs in R is really convenient and there is a huge amount of R packages exist in public domain. Also there are lots of online materials to learn this very famous programming language (just google it). 
+
+### ![](R.png){width=2%} installation process
+
+The installation process of R and R Studio is very convenient. Please go through online to download [R](https://cran.r-project.org/) and [R Studio](https://www.rstudio.com/products/rstudio/download/) . Note that do install R studio only after installing R in your PC. Please choose the latest version of R and R Studio based on your PC and OS specification.
+
+---
+
+In the similar way python can be downloaded and installed. I Will provide a detailed instructions soon about Python.
+
+---

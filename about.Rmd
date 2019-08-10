@@ -6,15 +6,15 @@ I am planning to cover different aspects of Data science which includes Data man
 
 ---
 
-## Offspring 2019-R Course
+## ![](R.png){width=5%} Offspring 2019 
 
-I am very pleased to inform that the course become quite popular in its first stage. Nearabout 270 participants register for the course mostly from Biostatistics/ Statistics/Demography/Social Science background from International Institute for Population Sciences (IIPS) and Banaras Hindu University (BHU). 
+I am very pleased to inform that the ![](R.png){width=2%} course become quite popular in its first stage. Nearabout 270 participants register for the course mostly from Biostatistics/ Statistics/Demography/Social Science background mostly from International Institute for Population Sciences (IIPS) and Banaras Hindu University (BHU). 
 
-The important part of the course that it's completely free of cost and the vast data management and statistics domains have been covered by using some interactive examples. I am sharing here all the materials related to the R course **Offspring 2019** which are as follows:
+The important part of the course that it's completely free of cost and the vast data management and statistics domains have been covered by using some interactive examples. I am sharing here all the materials related to the ![](R.png){width=2%} course **Offspring 2019** which are as follows:
 
 So, first thing first, the syllabus and instructions of the course is available in https://appwick-hub.github.io/Offspring-2019/Course_Instruction_Syllabus.nb.html \ref [https://appwick-hub.github.io/Offspring-2019/Course_Instruction_Syllabus.nb.html]
 
-- **1st Week: ** In the 1st week of the course we learnt basically to install R and R studio and performed some basic operations in R. The reference web page you can find at https://appwick-hub.github.io/Offspring-2019/Offspring-2019-0.nb.html \ref [https://appwick-hub.github.io/Offspring-2019/Offspring-2019-0.nb.html]
+- **1st Week: ** In the 1st week of the course we learnt basically to install R and R studio and performed some basic operations in ![](R.png){width=2%}. The reference web page you can find at https://appwick-hub.github.io/Offspring-2019/Offspring-2019-0.nb.html \ref [https://appwick-hub.github.io/Offspring-2019/Offspring-2019-0.nb.html]
 
 - **2nd Week: ** In the 2nd week, we discussed mainly about sampling and random number generation. The reference web page you can find at https://appwick-hub.github.io/Offspring-2019/Offspring-2019-1.nb.html \ref [https://appwick-hub.github.io/Offspring-2019/Offspring-2019-1.nb.html]
 
