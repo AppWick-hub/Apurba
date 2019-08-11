@@ -9,7 +9,7 @@ title: "About Me"
 knitr::include_graphics("IMG_20180727_125347.jpg")
 ```
 
-- Now, I am working on the common and rare variations in the Autism Spectrum Disorders (ASDs).
+- Now, I am working on the common and rare genetic variations in the Autism Spectrum Disorders (ASDs).
 
 - I received my Masters degree from the *Banaras Hindu University*, Varanasi, India in 2014-16.
 
