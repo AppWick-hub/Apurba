@@ -9,7 +9,7 @@ title: "About Me"
 knitr::include_graphics("IMG_20180727_125347.jpg")
 ```
 
-- Now, I am working with *Dr. Idan Menashe* on the genetics of Autism Spectrum Disorders (ASDs) by developing some machine learning algorithms using R and Python programming language.
+- Now, I am working on the common and rare variations in the Autism Spectrum Disorders (ASDs).
 
 - I received my Masters degree from the *Banaras Hindu University*, Varanasi, India in 2014-16.
 
@@ -17,7 +17,7 @@ knitr::include_graphics("IMG_20180727_125347.jpg")
 
 - I worked as a summer trainee at the *National Institute of Medical Statistics (NIMS)*, New Delhi, India in 2015. 
 
-- I also worked as a Data Analyst at the *Karnataka Health Promotion Trust*, Bangalore, India in 2017.
+- I also worked as a Data Analyst at the *Karnataka Health Promotion Trust (KHPT)*, Bangalore, India in 2017.
 
 - The year 2018 was very productive academically in my life. I got funding from IUSSP to attend the conference and workshop conducted by **Population Association of America (PAA)** in Denver, USA. Few months later again I was selected and funded by UNFPA and Statistics Korea to attend the **5th KOSTAT summer training on R and STATA** software in South Korea. 
 
