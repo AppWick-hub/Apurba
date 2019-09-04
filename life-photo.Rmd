@@ -1,0 +1,8 @@
+
+I will share here some of my moments and stories related to my journey of life in different phases which I am experiencing throughout. 
+
+```{r, echo=FALSE, fig.cap="Varanasi, 2015", out.width = '100%',out.height='100%', fig.align="center"}
+knitr::include_graphics("Varanasi.jpg")
+```
+
+---

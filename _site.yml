@@ -5,12 +5,12 @@ navbar:
   left:
     - text: "Homepage"
       href: index.html
-    - text: "Research"
-      href: research.html
-    - text: "Data & Software"
-      href: data.html
+    - text: "Personal life"
+      href: life-photo.html
     - text: "Data Science"
       href: about.html
+    - text: "Publications"
+      href: research.html
     - text: "News & Blogs"
       href: news.html
     - text: "My CV"
@@ -28,7 +28,7 @@ navbar:
       
 output:
  html_document:
-    theme: flatly
+    theme: journal
     highlight: espresso
     include:
       css: styles.css

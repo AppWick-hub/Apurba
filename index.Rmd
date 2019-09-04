@@ -2,58 +2,95 @@
 title: "About Me"
 ---
 
-- I am an Indian citizen, currently pursuing my Doctoal Studies from the [Dept. of Public Health, Ben Gurion University](https://in.bgu.ac.il/en/fohs/public_health/Pages/default.aspx), Israel. 
+- Hi! This is **Apurba Shil**; I am from India and I am pursuing my doctoal studies in Statistics and Epidemiology from the [Dept. of Public Health, Ben Gurion University](https://in.bgu.ac.il/en/fohs/public_health/Pages/default.aspx), Israel under the Kreitman Fellowship (2019-2023). **Welcome to my personal Website..**
 
-
-```{r pressure, echo=FALSE, out.height='30%', out.width = '40%', fig.pos= 'H', fig.align="center"}
-knitr::include_graphics("IMG_20180727_125347.jpg")
+```{r pressure, echo=FALSE, out.height='40%', out.width = '30%', fig.pos= 'H', fig.align="center"}
+knitr::include_graphics("Profile.jpeg")
 ```
 
-- Now, I am working on the common and rare genetic variations in the Autism Spectrum Disorders (ASDs).
+- My present focus of research is on exploring the common and rare genetic variations in the Autism Spectrum Disorders (ASDs).
 
-- I received my Masters degree from the *Banaras Hindu University*, Varanasi, India in 2014-16.
+- I received my Masters degree from the [Institute of Medical Sciences, Banaras Hindu University](http://www.bhu.ac.in/ims/), Varanasi, India in 2014-16.
 
-- I did my M.Phil. in Biostatistics and Epidemiology from *International Institute for Population Sciences (IIPS)*, Mumbai, India in 2016-17.
+- I did my M.Phil. in Biostatistics and Epidemiology from [International Institute for Population Sciences (IIPS)](http://www.iipsindia.ac.in/), Mumbai, India in 2016-17.
 
-- I worked as a summer trainee at the *National Institute of Medical Statistics (NIMS)*, New Delhi, India in 2015. 
+- I worked as a summer trainee at the [National Institute of Medical Statistics (NIMS)](http://nims-icmr.nic.in/NIMS/index.jsp), New Delhi, India in 2015. 
 
-- I also worked as a Data Analyst at the *Karnataka Health Promotion Trust (KHPT)*, Bangalore, India in 2017.
+- I also worked as a Data Analyst at the [Karnataka Health Promotion Trust (KHPT)](http://www.khpt.org/), Bangalore, India in 2017.
 
-- The year 2018 was very productive academically in my life. I got funding from IUSSP to attend the conference and workshop conducted by **Population Association of America (PAA)** in Denver, USA. Few months later again I was selected and funded by UNFPA and Statistics Korea to attend the **5th KOSTAT summer training on R and STATA** software in South Korea. 
-
-* At the Ben Gurion University, I have successfully completed some courses till now like *Deep learning in computational biology using Python programming* and *Advanced epidemiological analysis using R programming*.
+- At the Ben Gurion University, I have successfully completed the *Deep learning in computational biology using Python programming language* and *Advanced epidemiological analysis using R programming language* courses.
 
 ---
 
-## Research Interests
+# Research Interests
 
-- Predictve Modelling
+- Autism Spectrum Disorders (ASDs)
 
-- Spatial Analysis
+- Non Communicable Diseases (NCDs)
 
-- Machine Learning
+- Machine/Deep Learning Techniques (MLT/DLT)
 
-- Genetics of Autism Spectrum Disorders
-
-- Non Communicable Diseases
+- Geo-Spatial Analysis
 
 ---
 
-### Contact Details
+# Skills
+
+#### Technical
+
+- R     
+
+- STATA  
+
+- Python
+
+- SPSS
+
+- GIS
+
+#### Professional
+
+- Effective Communication
+
+- Team Player
+
+- Problem Solver
+
+- Time management
+
+---
+
+## Interests
+
+- Playing cricket/football
+
+- Travelling
+
+- Photography
+
+- Climbing
+
+## Languages
+
+- Bengali (Native)
+
+- Hindi (Professional)
+
+- English (Professional)
+
+---
+
+# Contact Details
 
 Dept. of Public Health, Faculty of Health Sciences, 
 
-Email Id: apurba@post.bgu.ac.il \ref [apurba@post.bgu.ac.il],
+Official email Id: apurba@post.bgu.ac.il \ref [apurba@post.bgu.ac.il],
+
+Personal email Id: apurba.shil316@hotmail.com \ref [apurba.shil316@hotmail.com],
 
 Ben Gurion University, Beersheva, Israel,
 
 Cell No: +91 8291585630 (India)/+972 585426166 (Israel)
 
-
----
-
-```{r, echo=FALSE, fig.cap="Varanasi, 2015", out.width = '100%',out.height='100%', fig.align="center"}
-knitr::include_graphics("Varanasi.jpg")
-```
 
 ---
