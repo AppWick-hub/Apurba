@@ -1,8 +1,14 @@
 
-I will share here some of my moments and stories related to my journey of life in different phases which I am experiencing throughout. 
+I will share here some of the photos and stories which I am experiencing throughout. 
 
-```{r, echo=FALSE, fig.cap="Varanasi, 2015", out.width = '100%',out.height='100%', fig.align="center"}
-knitr::include_graphics("Varanasi.jpg")
-```
+Someone truly said, **"Travelling solo means getting to know the real you!!"**. I like to travel a lot but I have not travelled much so far. I have a full bucket of destination list to cover before I die.
+
+![During my graduation, as a part of college trip, visited Vaizag-India, 2011](College trip.jpg){width=80%}
+
+![A beautiful afternoon at the holy city of Varanasi-India, 2015](Varanasi.jpg){width=80%} 
+
+![A nice moment at the Busan-South Korea, 2018](Busan.PNG){width=80% height=70%}
+
+![My 1st day at the Ben Gurion University, Israel, 2019](BGU-Israel.jpg){width=80% height=90%}
 
 ---
