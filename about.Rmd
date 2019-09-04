@@ -40,7 +40,7 @@ I am planning to cover different aspects of **Data Science** (starting from the 
 
 I am very positive to continue developing such web pages on different type of statistical analysis and data handling techniques and these pages will be available freely. What are you thinking then? Of course! Start learning R today.
 
-$N.B:$ Since I am a doctoral fellow like many of you I may do some mistakes in the above web pages. Please do correct me. If you have anything to say about course contents or any other issues, do write to me at *apurba@post.bgu.ac.il* \ref [apurba@post.bgu.ac.il].
+Since I am a doctoral fellow like many of you I may do some mistakes in the above web pages. Please do correct me. If you have anything to say about course contents or any other issues, do write to me at *apurba@post.bgu.ac.il* \ref [apurba@post.bgu.ac.il].
 
 ---
 
