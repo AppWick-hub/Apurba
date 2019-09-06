@@ -1,11 +1,16 @@
 ---
 title: "About Me"
+output:
+  html_document:
+    theme: darkly
+    toc: yes
+    toc_float: yes
 ---
 
 - Hi! This is **Apurba Shil**; I am from India and I am pursuing my doctoal studies in Statistics and Epidemiology from the [Dept. of Public Health, Ben Gurion University](https://in.bgu.ac.il/en/fohs/public_health/Pages/default.aspx), Israel under the Kreitman Fellowship (2019-2023). **Welcome to my personal Website..**
 
-```{r pressure, echo=FALSE, out.height='40%', out.width = '30%', fig.pos= 'H', fig.align="center"}
-knitr::include_graphics("Profile.jpeg")
+```{r pressure, echo=FALSE, out.height='50%', out.width = '50%', fig.pos= 'H', fig.align="center"}
+knitr::include_graphics("IMG_20180727_125347.jpg")
 ```
 
 - My present focus of research is on exploring the common and rare genetic variations in the Autism Spectrum Disorders (ASDs).
@@ -36,7 +41,7 @@ knitr::include_graphics("Profile.jpeg")
 
 # Skills
 
-#### Technical
+## Technical
 
 - R     
 
@@ -48,7 +53,7 @@ knitr::include_graphics("Profile.jpeg")
 
 - GIS
 
-#### Professional
+## Professional
 
 - Effective Communication
 
@@ -60,7 +65,7 @@ knitr::include_graphics("Profile.jpeg")
 
 ---
 
-## Interests
+# Interests
 
 - Playing cricket/football
 
@@ -70,7 +75,7 @@ knitr::include_graphics("Profile.jpeg")
 
 - Climbing
 
-## Languages
+# Languages Known
 
 - Bengali (Native)
 

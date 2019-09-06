@@ -1,4 +1,8 @@
-
+---
+output:
+  html_document:
+    theme: cerulean
+---
 
 # Recent Publications
 

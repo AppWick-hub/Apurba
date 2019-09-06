@@ -1,3 +1,8 @@
+---
+output:
+  html_document:
+    theme: cosmo
+---
 
 I will share here some of the photos and stories which I am experiencing throughout. 
 

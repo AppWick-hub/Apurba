@@ -1,1 +1,6 @@
-## This page is under construction...
+---
+title: "This page is under construction"
+output:
+  html_document:
+    theme: journal
+---
