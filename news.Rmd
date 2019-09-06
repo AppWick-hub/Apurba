@@ -1,6 +1,0 @@
----
-title: "This page is under construction and will be available soon"
-output:
-  html_document:
-    theme: journal
----
