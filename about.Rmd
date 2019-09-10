@@ -1,7 +1,7 @@
 ---
 output:
   html_document:
-    theme: flatly
+    theme: journal
     toc: yes
     toc_float: yes
 ---
@@ -33,32 +33,32 @@ I am planning to cover different aspects of **Data Science** (starting from the 
 
 ## 1st Web page
 
-In the 1st web page we are going to discuss basically to install R and R studio and performed some basic operations in R. The reference web page you can find at https://appwick-hub.github.io/Offspring-2019/Offspring-2019-0.nb.html \ref [https://appwick-hub.github.io/Offspring-2019/Offspring-2019-0.nb.html]
+In the 1st web page we are going to discuss basically to install R and R studio and performed some basic operations in R. The reference web page you can find at [here](https://appwick-hub.github.io/Offspring-2019/Offspring-2019-0.nb.html).
 
 ## 2nd Web page
 
-In the 2nd web page we are going to discuss mainly about sampling and random number generation in R. The reference web page you can find at https://appwick-hub.github.io/Offspring-2019/Offspring-2019-1.nb.html \ref [https://appwick-hub.github.io/Offspring-2019/Offspring-2019-1.nb.html]
+In the 2nd web page we are going to discuss mainly about sampling and random number generation in R. The reference web page you can find at [here](https://appwick-hub.github.io/Offspring-2019/Offspring-2019-1.nb.html).
 
 
 ## 3rd Web page
 
-In the 3rd web page we are going to discuss on writing conditions, loops and functions using R. The web page you can find at https://appwick-hub.github.io/Offspring-2019/Offspring-2019-2.nb.html \ref [https://appwick-hub.github.io/Offspring-2019/Offspring-2019-2.nb.html]
+In the 3rd web page we are going to discuss on writing conditions, loops and functions using R. The web page you can find at [here](https://appwick-hub.github.io/Offspring-2019/Offspring-2019-2.nb.html).
 
 ## 4th Web page
 
-In the 4th web page we are going to discuss on descriptive statistics and different data manipulation techniques using R. The web page you can find at https://appwick-hub.github.io/Offspring-2019/Offspring-2019-3.html \ref [https://appwick-hub.github.io/Offspring-2019/Offspring-2019-3.html]
+In the 4th web page we are going to discuss on descriptive statistics and different data manipulation techniques using R. The web page you can find at [here](https://appwick-hub.github.io/Offspring-2019/Offspring-2019-3.html).
 
 ## 5th Web page
 
-In the 5th web page we are going to discuss about different types of data importation and exportation process in R. The web page you can find at https://appwick-hub.github.io/Offspring-2019/Offspring-2019-4.html \ref [https://appwick-hub.github.io/Offspring-2019/Offspring-2019-4.html]
+In the 5th web page we are going to discuss about different types of data importation and exportation process in R. The web page you can find at [here](https://appwick-hub.github.io/Offspring-2019/Offspring-2019-4.html).
 
 ## 6th Web page
 
-In the 6th web page we are going to discuss about data visualization process using `ggplot2` package using R. The web page you can find at https://appwick-hub.github.io/Offspring-2019/Offspring-2019-5.html \ref [https://appwick-hub.github.io/Offspring-2019/Offspring-2019-5.html]
+In the 6th web page we are going to discuss about data visualization process using `ggplot2` package using R. The web page you can find at [here](https://appwick-hub.github.io/Offspring-2019/Offspring-2019-5.html).
 
 ## 7th Web page
 
-In the 7th web page we are going to discuss about testing, regression and correlation using R. The web page you can find at https://appwick-hub.github.io/Offspring-2019/Offspring-2019-6.html \ref [https://appwick-hub.github.io/Offspring-2019/Offspring-2019-6.html]
+In the 7th web page we are going to discuss about testing, regression and correlation using R. The web page you can find at [here](https://appwick-hub.github.io/Offspring-2019/Offspring-2019-6.html).
 
 ---
 

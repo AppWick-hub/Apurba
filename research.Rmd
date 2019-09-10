@@ -1,7 +1,7 @@
 ---
 output:
   html_document:
-    theme: united
+    theme: journal
 ---
 
 # Recent Publications
@@ -26,7 +26,7 @@ At the national level, the prevalence of full immunization was 62 percent. Speci
 
 The full and specific immunization coverage was considerably low in the geographical hotspots as compared to the national coverage. Maternal and child health care services utilization, financial assistance to the mothers through JSY scheme and mother’s education were found to determine full immunization as well as the specific vaccination coverage. Appropriate intervention should be designed to reduce the geographical disparity in the coverage of specific and full immunization across India and thus safeguard child health protecting the children from the vaccine preventable diseases across the geography.
 
-*You can access the full text version of this piece of work at* https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207209 \ref [https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207209]
+*You can access the full text version of this piece of work at* [here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207209).
 
 ---
 
@@ -48,6 +48,6 @@ Results show a high spatial heterogeneity in disease burden across the agro-clim
 
 Findings call for an immediate programmatic attention at the subnational level due to significantly high regional dependence of NCDs. Policies and programme should focus on strengthening the implementation of existing  policies with a special focus on geriatric population to combat the disease burden.
 
-*You can access the full text version of this piece of work at* https://link.springer.com/article/10.1007/s10389-017-0876-2 \ref [https://link.springer.com/article/10.1007/s10389-017-0876-2]
+*You can access the full text version of this piece of work at* [here](https://link.springer.com/article/10.1007/s10389-017-0876-2).
 
 ---
