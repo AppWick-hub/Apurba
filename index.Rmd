@@ -2,7 +2,7 @@
 title: "About Me"
 output:
   html_document:
-    theme: darkly
+    theme: yeti
     toc: yes
     toc_float: yes
 ---

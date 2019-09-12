@@ -1,14 +1,38 @@
 ---
 output:
   html_document:
-    theme: journal
+    theme: yeti
+    toc: yes
+    toc_float: yes
 ---
 
 # Recent Publications
 
 ---
 
-## Exploring the spatial heterogeneity in different doses of vaccination coverage in India
+# Hepatitis B vaccination coverage across India: exploring the spatial heterogeneity and contextual determinants
+
+**Background**
+
+Although hepatitis B vaccinations have been integrated in the Universal Immunization Program (UIP) in India over a decade, only half of the children are immunized against hepatitis B. The national average in hepatitis B vaccination conceals large variations across states, districts and socio-economic groups. In this context, the aim of this paper is to examine the spatial heterogeneity and contextual determinants of hepatitis B vaccination across the districts of India.
+
+**Methods**
+
+Using data of 199,899 children aged 12–59 months from the National Family Health Survey-4 (NFHS-4), 2015–16 we have examined the district level spatial distribution and clustering of hepatitis B vaccination with the help of Moran’s I and Local Indicator of Spatial Autocorrelation (LISA) measures. We investigated the low coverage of HBV vaccination using spatial autoregressive models (SAR) at the meso scale. And we applied multivariate binary logistic regression analysis to understand the micro-level predictors of hepatitis B vaccination.
+
+**Results**
+
+In 2015–16, 45% of the children aged 12–59 months were not vaccinated against hepatitis B in India. The coverage of hepatitis B vaccine across the districts of India showed a highly significant spatial dependence (Moran’s I= 0.580). Bivariate Moran’s I confirmed the spatial clustering of hepatitis B vaccination with mother’s education, full antenatal care (ANC) utilization, post natal care (PNC) utilization, institutional births and registration of births at the district level. Districts with a very low coverage of HBV vaccine are clustered in the western, north-eastern regions and in some parts of central India. At the unit (child) level, children’s hepatitis B immunization status is mostly determined by the socio-economic and demographic characteristics like their mother’s educational status, caste, religion, household’s wealth condition, birth order, year of birth and the region they belong to.
+
+**Conclusions**
+
+District level variation in hepatitis B vaccination is spatially heterogeneous and clustered in India with a strong neighbourhood effect. Uptake of hepatitis B vaccine among Indian children is predominantly dependent upon their socio-economic and demographic characteristics.
+
+*You can access the full text version of this piece of work at* [here](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-019-7534-2).
+
+---
+
+# Exploring the spatial heterogeneity in different doses of vaccination coverage in India
 
 **Background**
 
@@ -30,7 +54,7 @@ The full and specific immunization coverage was considerably low in the geograph
 
 ---
 
-## A geospatial analysis of noncommunicable disease (NCD) burden in Indian agro-climatic and political regions
+# A geospatial analysis of noncommunicable disease (NCD) burden in Indian agro-climatic and political regions
 
 **Aim**
 

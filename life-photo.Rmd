@@ -1,12 +1,12 @@
 ---
 output:
   html_document:
-    theme: journal
+    theme: yeti
 ---
 
 I will share here some of the photos and stories which I am experiencing throughout. 
 
-Someone truly said, **"Travelling solo means getting to know the real you!!"**. I like to travel a lot but I have not travelled much so far. I have a full bucket of destination list to cover before I die.
+Someone truly said, **"Travelling means getting to know the real you!!"**. I like to travel a lot but I have not travelled much so far. I have a full bucket of destination list to cover before I die.
 
 ![During my graduation, as a part of college trip, visited Vaizag-India, 2011](College trip.jpg){width=80%}
 

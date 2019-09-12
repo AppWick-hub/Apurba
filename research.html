@@ -16,10 +16,13 @@
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/journal.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
@@ -89,33 +92,33 @@ summary {
 <style type="text/css">
 /* padding for bootstrap navbar */
 body {
-  padding-top: 61px;
+  padding-top: 45px;
   padding-bottom: 40px;
 }
 /* offset scroll position for anchor links (for fixed navbar)  */
 .section h1 {
-  padding-top: 66px;
-  margin-top: -66px;
+  padding-top: 50px;
+  margin-top: -50px;
 }
 .section h2 {
-  padding-top: 66px;
-  margin-top: -66px;
+  padding-top: 50px;
+  margin-top: -50px;
 }
 .section h3 {
-  padding-top: 66px;
-  margin-top: -66px;
+  padding-top: 50px;
+  margin-top: -50px;
 }
 .section h4 {
-  padding-top: 66px;
-  margin-top: -66px;
+  padding-top: 50px;
+  margin-top: -50px;
 }
 .section h5 {
-  padding-top: 66px;
-  margin-top: -66px;
+  padding-top: 50px;
+  margin-top: -50px;
 }
 .section h6 {
-  padding-top: 66px;
-  margin-top: -66px;
+  padding-top: 50px;
+  margin-top: -50px;
 }
 .dropdown-submenu {
   position: relative;
@@ -234,6 +237,63 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -241,6 +301,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -267,10 +337,10 @@ $(document).ready(function () {
   <a href="about.html">Data Science</a>
 </li>
 <li>
-  <a href="research.html">Publications</a>
+  <a href="news.html">Apps &amp; Blogs</a>
 </li>
 <li>
-  <a href="news.html">Apps &amp; Blogs</a>
+  <a href="research.html">Publications</a>
 </li>
 <li>
   <a href="Apurba Shil-CV.pdf">My CV</a>
@@ -317,8 +387,22 @@ $(document).ready(function () {
 <div id="recent-publications" class="section level1">
 <h1>Recent Publications</h1>
 <hr />
-<div id="exploring-the-spatial-heterogeneity-in-different-doses-of-vaccination-coverage-in-india" class="section level2">
-<h2>Exploring the spatial heterogeneity in different doses of vaccination coverage in India</h2>
+</div>
+<div id="hepatitis-b-vaccination-coverage-across-india-exploring-the-spatial-heterogeneity-and-contextual-determinants" class="section level1">
+<h1>Hepatitis B vaccination coverage across India: exploring the spatial heterogeneity and contextual determinants</h1>
+<p><strong>Background</strong></p>
+<p>Although hepatitis B vaccinations have been integrated in the Universal Immunization Program (UIP) in India over a decade, only half of the children are immunized against hepatitis B. The national average in hepatitis B vaccination conceals large variations across states, districts and socio-economic groups. In this context, the aim of this paper is to examine the spatial heterogeneity and contextual determinants of hepatitis B vaccination across the districts of India.</p>
+<p><strong>Methods</strong></p>
+<p>Using data of 199,899 children aged 12–59 months from the National Family Health Survey-4 (NFHS-4), 2015–16 we have examined the district level spatial distribution and clustering of hepatitis B vaccination with the help of Moran’s I and Local Indicator of Spatial Autocorrelation (LISA) measures. We investigated the low coverage of HBV vaccination using spatial autoregressive models (SAR) at the meso scale. And we applied multivariate binary logistic regression analysis to understand the micro-level predictors of hepatitis B vaccination.</p>
+<p><strong>Results</strong></p>
+<p>In 2015–16, 45% of the children aged 12–59 months were not vaccinated against hepatitis B in India. The coverage of hepatitis B vaccine across the districts of India showed a highly significant spatial dependence (Moran’s I= 0.580). Bivariate Moran’s I confirmed the spatial clustering of hepatitis B vaccination with mother’s education, full antenatal care (ANC) utilization, post natal care (PNC) utilization, institutional births and registration of births at the district level. Districts with a very low coverage of HBV vaccine are clustered in the western, north-eastern regions and in some parts of central India. At the unit (child) level, children’s hepatitis B immunization status is mostly determined by the socio-economic and demographic characteristics like their mother’s educational status, caste, religion, household’s wealth condition, birth order, year of birth and the region they belong to.</p>
+<p><strong>Conclusions</strong></p>
+<p>District level variation in hepatitis B vaccination is spatially heterogeneous and clustered in India with a strong neighbourhood effect. Uptake of hepatitis B vaccine among Indian children is predominantly dependent upon their socio-economic and demographic characteristics.</p>
+<p><em>You can access the full text version of this piece of work at</em> <a href="https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-019-7534-2">here</a>.</p>
+<hr />
+</div>
+<div id="exploring-the-spatial-heterogeneity-in-different-doses-of-vaccination-coverage-in-india" class="section level1">
+<h1>Exploring the spatial heterogeneity in different doses of vaccination coverage in India</h1>
 <p><strong>Background</strong></p>
 <p>Despite the universalization of immunization against the six vaccine-preventable diseases (VPDs), the coverage of full immunization among the children under age five has remained a challenge globally. The 2015–16 National Family Health Survey (NFHS) indicated large disparity in the coverage of different vaccination doses (BCG, Polio, DPT and Measles) including full immunization across the districts of India. The spatial distribution of poor performing districts in terms of vaccination and the district level spatial, contextual determinants contributing to the low coverage have been poorly studied. Using the recent household survey (NFHS, 2015–16), this study examined the spatial heterogeneity and the factors associated with low vaccination coverage among the children aged 12–23 months across India.</p>
 <p><strong>Data and methods</strong></p>
@@ -330,8 +414,8 @@ $(document).ready(function () {
 <p><em>You can access the full text version of this piece of work at</em> <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207209">here</a>.</p>
 <hr />
 </div>
-<div id="a-geospatial-analysis-of-noncommunicable-disease-ncd-burden-in-indian-agro-climatic-and-political-regions" class="section level2">
-<h2>A geospatial analysis of noncommunicable disease (NCD) burden in Indian agro-climatic and political regions</h2>
+<div id="a-geospatial-analysis-of-noncommunicable-disease-ncd-burden-in-indian-agro-climatic-and-political-regions" class="section level1">
+<h1>A geospatial analysis of noncommunicable disease (NCD) burden in Indian agro-climatic and political regions</h1>
 <p><strong>Aim</strong></p>
 <p>To examine the burden of noncommunicable diseases (NCDs) in the Indian agro-climatic and political regions.</p>
 <p><strong>Subjects and methods</strong></p>
@@ -343,10 +427,11 @@ $(document).ready(function () {
 <p><em>You can access the full text version of this piece of work at</em> <a href="https://link.springer.com/article/10.1007/s10389-017-0876-2">here</a>.</p>
 <hr />
 </div>
+
+
+
 </div>
-
-
-
+</div>
 
 </div>
 
@@ -379,6 +464,32 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
