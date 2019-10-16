@@ -7,7 +7,7 @@ output:
     toc_float: yes
 ---
 
-- Hi! This is **Apurba Shil**; I am from India and I am pursuing my doctoal studies in Statistics and Epidemiology from the [Dept. of Public Health, Ben Gurion University](https://in.bgu.ac.il/en/fohs/public_health/Pages/default.aspx), Israel under the Kreitman Fellowship (2019-2023). **Welcome to my personal Website..**
+- Hi! This is **Apurba Shil**; I am from India and I am pursuing my doctoral studies in Statistics and Epidemiology from the [Dept. of Public Health, Ben Gurion University](https://in.bgu.ac.il/en/fohs/public_health/Pages/default.aspx), Israel under the Kreitman Fellowship (2019-2023). **Welcome to my personal Website..**
 
 ```{r pressure, echo=FALSE, out.height='50%', out.width = '50%', fig.pos= 'H', fig.align="center"}
 knitr::include_graphics("IMG_20180727_125347.jpg")

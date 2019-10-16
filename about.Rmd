@@ -1,7 +1,7 @@
 ---
 output:
   html_document:
-    theme: united
+    theme: yeti
     toc: yes
     toc_float: yes
 ---
