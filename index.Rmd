@@ -7,7 +7,7 @@ output:
     toc_float: yes
 ---
 
-- Hi! This is **Apurba Shil**; I am from India and I am pursuing my doctoral studies in Statistics and Epidemiology from the [Dept. of Public Health, Ben Gurion University](https://in.bgu.ac.il/en/fohs/public_health/Pages/default.aspx), Israel under the Kreitman Fellowship (2019-2023). **Welcome to my personal Website..**
+- Hi! I am a PhD student at the [Dept. of Public Health, Ben Gurion University](https://in.bgu.ac.il/en/fohs/public_health/Pages/default.aspx), Israel under the Kreitman Fellowship (2019-2023). **Welcome to my personal Website..**
 
 ```{r pressure, echo=FALSE, out.height='50%', out.width = '50%', fig.pos= 'H', fig.align="center"}
 knitr::include_graphics("IMG_20180727_125347.jpg")
@@ -15,9 +15,9 @@ knitr::include_graphics("IMG_20180727_125347.jpg")
 
 - My present focus of research is on exploring the common and rare genetic variations in the Autism Spectrum Disorders (ASDs).
 
-- I received my Masters degree from the [Institute of Medical Sciences, Banaras Hindu University](http://www.bhu.ac.in/ims/), Varanasi, India in 2014-16.
+- I received Masters degree from the [Institute of Medical Sciences, Banaras Hindu University](http://www.bhu.ac.in/ims/), Varanasi, India in 2014-16.
 
-- I did my M.Phil. in Biostatistics and Epidemiology from [International Institute for Population Sciences (IIPS)](http://www.iipsindia.ac.in/), Mumbai, India in 2016-17.
+- I did M.Phil. in Biostatistics and Epidemiology from [International Institute for Population Sciences (IIPS)](http://www.iipsindia.ac.in/), Mumbai, India in 2016-17.
 
 - I worked as a summer trainee at the [National Institute of Medical Statistics (NIMS)](http://nims-icmr.nic.in/NIMS/index.jsp), New Delhi, India in 2015. 
 
@@ -49,8 +49,6 @@ knitr::include_graphics("IMG_20180727_125347.jpg")
 
 - Python
 
-- SPSS
-
 - GIS
 
 ## Professional
@@ -71,9 +69,7 @@ knitr::include_graphics("IMG_20180727_125347.jpg")
 
 - Travelling
 
-- Photography
-
-- Climbing
+- Music
 
 # Languages Known
 

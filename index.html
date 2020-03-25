@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
@@ -72,7 +71,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -221,6 +219,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -249,6 +248,12 @@ $(document).ready(function () {
 }
 }
 
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
 
 .toc-content {
   padding-left: 30px;
@@ -386,13 +391,13 @@ div.tocify {
 
 
 <ul>
-<li>Hi! This is <strong>Apurba Shil</strong>; I am from India and I am pursuing my doctoral studies in Statistics and Epidemiology from the <a href="https://in.bgu.ac.il/en/fohs/public_health/Pages/default.aspx">Dept. of Public Health, Ben Gurion University</a>, Israel under the Kreitman Fellowship (2019-2023). <strong>Welcome to my personal Website..</strong></li>
+<li>Hi! I am a PhD student at the <a href="https://in.bgu.ac.il/en/fohs/public_health/Pages/default.aspx">Dept. of Public Health, Ben Gurion University</a>, Israel under the Kreitman Fellowship (2019-2023). <strong>Welcome to my personal Website..</strong></li>
 </ul>
 <p><img src="IMG_20180727_125347.jpg" width="50%" height="50%" style="display: block; margin: auto;" /></p>
 <ul>
 <li><p>My present focus of research is on exploring the common and rare genetic variations in the Autism Spectrum Disorders (ASDs).</p></li>
-<li><p>I received my Masters degree from the <a href="http://www.bhu.ac.in/ims/">Institute of Medical Sciences, Banaras Hindu University</a>, Varanasi, India in 2014-16.</p></li>
-<li><p>I did my M.Phil. in Biostatistics and Epidemiology from <a href="http://www.iipsindia.ac.in/">International Institute for Population Sciences (IIPS)</a>, Mumbai, India in 2016-17.</p></li>
+<li><p>I received Masters degree from the <a href="http://www.bhu.ac.in/ims/">Institute of Medical Sciences, Banaras Hindu University</a>, Varanasi, India in 2014-16.</p></li>
+<li><p>I did M.Phil. in Biostatistics and Epidemiology from <a href="http://www.iipsindia.ac.in/">International Institute for Population Sciences (IIPS)</a>, Mumbai, India in 2016-17.</p></li>
 <li><p>I worked as a summer trainee at the <a href="http://nims-icmr.nic.in/NIMS/index.jsp">National Institute of Medical Statistics (NIMS)</a>, New Delhi, India in 2015.</p></li>
 <li><p>I also worked as a Data Analyst at the <a href="http://www.khpt.org/">Karnataka Health Promotion Trust (KHPT)</a>, Bangalore, India in 2017.</p></li>
 <li><p>At the Ben Gurion University, I have successfully completed the <em>Deep learning in computational biology using Python programming language</em> and <em>Advanced epidemiological analysis using R programming language</em> courses.</p></li>
@@ -416,7 +421,6 @@ div.tocify {
 <li><p>R</p></li>
 <li><p>STATA</p></li>
 <li><p>Python</p></li>
-<li><p>SPSS</p></li>
 <li><p>GIS</p></li>
 </ul>
 </div>
@@ -436,8 +440,7 @@ div.tocify {
 <ul>
 <li><p>Playing cricket/football</p></li>
 <li><p>Travelling</p></li>
-<li><p>Photography</p></li>
-<li><p>Climbing</p></li>
+<li><p>Music</p></li>
 </ul>
 </div>
 <div id="languages-known" class="section level1">
